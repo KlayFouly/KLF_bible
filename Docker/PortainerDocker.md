@@ -27,7 +27,7 @@ docker run -d \
 >-   Le port 9000 permet d’accéder à l’interface en HTTP si besoin.
 >  
 >-   Le montage du socket Docker permet à Portainer de piloter vos conteneurs locaux [3](https://aymeric-cucherousset.fr/installer-portainer-io-sur-docker/) [4](https://docs.portainer.io/start/install-ce/server/docker/linux) [6](https://zatoufly.fr/installer-docker-et-portainer-sur-linux/).
-    
+
 
 ## **3. Accéder à l’interface web**
 
