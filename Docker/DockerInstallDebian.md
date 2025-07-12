@@ -8,7 +8,8 @@ Voici les étapes recommandées pour installer Docker Engine sur Debian, en suiv
 sudo apt update 
 sudo apt install -y apt-transport-https \
 		ca-certificates \ 
-		curl gnupg \ 
+		curl \
+		gnupg \ 
 		lsb-release
 ```
 
